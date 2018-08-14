@@ -1,0 +1,30 @@
+
+
+
+
+GDD
+
+Jogo Nave
+
+Estilo: Shooting
+Plataformas: Web
+
+Features:
+
+. Jogo para plataforma web, de nave, estilo "space  invaders". 
+O jogador controla a nave e deve passar por 5 fases para concluir sua missão.
+Os comandos são , usar as setas para movimentar a nave e e o espaço para atirar nos inimigos.
+.
+
+Restricoes:
+
+. não tem multiplyer
+. não tem online
+. apenas web (por enquanto)
+
+
+Implementações futuras:
+
+. exportar para android
+. fazer uma musica para o jogo
+. power up para a nave
